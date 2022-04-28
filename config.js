@@ -192,8 +192,8 @@ const CONFIG = {
 					link: 'https://www.theverge.com',
 				},
 				{
-					name: 'Thurrott',
-					link: 'https://www.thurrott.com/',
+					name: 'Dedoimedo',
+					link: 'https://www.dedoimedo.com/index.html',
 				},
 				{
 					name: '9to5 Linux',
