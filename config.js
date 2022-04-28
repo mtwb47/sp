@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://odysee.com/',
 				},
 				{
-					name: 'Gitlab',
-					link: 'https://gitlab.com/thelinuxcast',
+					name: 'Patreon',
+					link: 'https://patreon.com/thelinuxcast',
 				},
 				{
 					name: 'anchor',
