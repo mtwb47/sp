@@ -135,30 +135,8 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'message-square',
 			id: '1',
-			links: [
-				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
 			links: [
 				{
 					name: 'Facebook',
@@ -176,12 +154,31 @@ const CONFIG = {
 					name: 'Tumblr',
 					link: 'https://www.tumblr.com',
 				},
+			],
+		},
+		{
+			icon: 'bell-ring',
+			id: '2',
+			links: [
+				{
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
 				{
 					name: 'Studio',
 					link: 'https://studio.youtube.com/',
 				},
 			],
 		},
+		
 	],
 
 	// Second Links Container
