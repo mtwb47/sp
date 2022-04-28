@@ -13,8 +13,8 @@ const CONFIG = {
 	// General
 	name: 'Matthew',
 	imageBackground: false,
-	openInNewTab: true,
-	twelveHourFormat: false,
+	openInNewTab: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -161,16 +161,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Odysee',
+					link: 'https://odysee.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gitlab',
+					link: 'https://gitlab.com/thelinuxcast',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'anchor',
+					link: 'https://anchor.fm/',
 				},
 				{
 					name: 'Studio',
@@ -188,42 +188,42 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'The Verge',
+					link: 'https://www.theverge.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Thurrott',
+					link: 'https://www.thurrott.com/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: '9to5 Linux',
+					link: 'https://9to5linux.com/',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'OMG!Ubuntu',
+					link: 'https://www.omgubuntu.co.uk/',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'book',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Harmony AO3',
+					link: 'https://archiveofourown.org/tags/Hermione%20Granger*s*Harry%20Potter/works?page=1',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Percabeth Ao3',
+					link: 'https://archiveofourown.org/works?utf8=%E2%9C%93&work_search%5Bsort_column%5D=revised_at&work_search%5Bother_tag_names%5D=&work_search%5Bexcluded_tag_names%5D=&work_search%5Bcrossover%5D=&work_search%5Bcomplete%5D=&work_search%5Bwords_from%5D=&work_search%5Bwords_to%5D=&work_search%5Bdate_from%5D=&work_search%5Bdate_to%5D=&work_search%5Bquery%5D=&work_search%5Blanguage_id%5D=en&commit=Sort+and+Filter&tag_id=Annabeth+Chase*s*Percy+Jackson',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'FlowerPot',
+					link: 'https://archiveofourown.org/tags/Fleur%20Delacour*s*Harry%20Potter/works',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'Haphne',
+					link: 'https://archiveofourown.org/tags/Daphne%20Greengrass*s*Harry%20Potter/works',
 				},
 			],
 		},
